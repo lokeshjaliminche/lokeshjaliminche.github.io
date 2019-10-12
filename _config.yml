@@ -1,10 +1,9 @@
 title: Lokesh Jaliminche
 description: PhD Student Computer Science, University of California Santa Cruz
 
-![My helpful screenshot](/assets/profile_pic.jpg)
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
-
-gems:
+#
+#gems:
   - jekyll-mentions
