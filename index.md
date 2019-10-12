@@ -8,8 +8,9 @@
 * Machine Learning<br/>
 
 ### Education
+* Ph.D in Computer Science (University of California Santa Cruz)(Present) <br/>
 * M.Tech. in Computer Science (Vellore Institute of Technology) <br/>
-* B.E. in Computer Science (Bharatratna Indira Gandhi College of Engineering)
+* B.E. in Computer Science (Bharatratna Indira Gandhi College of Engineering) <br/>
 
 ### Experience
 * DataDirectNetworks (DDN) Storage <br/>
