@@ -1,20 +1,35 @@
 ![My helpful screenshot](/assets/profile_pic.jpg)
 
 ### Research Interests.
-Distributed Systems<br/>
-Storage Systems<br/>
-Databases<br/>
-Operating Systems<br/>
-Machine Learning<br/>
+* Distributed Systems<br/>
+* Storage Systems<br/>
+* Databases<br/>
+* Operating Systems<br/>
+* Machine Learning<br/>
 
 ### Education
-M.Tech. in Computer Science (Vellore Institute of Technology) <br/>
-B.E. in Computer Science (Bharatratna Indira Gandhi College of Engineering)
+* M.Tech. in Computer Science (Vellore Institute of Technology) <br/>
+* B.E. in Computer Science (Bharatratna Indira Gandhi College of Engineering)
 
-### Publication
-[Design and implementation of test harness for device drivers in SOC on mobile platforms](https://ieeexplore-ieee-org.oca.ucsc.edu/document/7050470)
+### Experience
+* DataDirectNetworks (DDN) Storage <br/>
+> Worked on the research and development of DDN’s burst buffer implementation, IME (Infinite Memory Engine).<br/>
+* Seagate <br/>
+> Development and sustenance of Lustre file system. The Lustre file system is an open-source, parallel file system that supports many requirements of leadership class HPC simulation environments. As a part of Lustre team, resolved many critical issues and submitted patches in open source community.<br/>
+* Intel <br/>
+> Developed test drivers which can be used for stimulating distinct functionalities of a device under test for behavior analysis.<br/>
+
+
+### OpenSource Contributions
+* [Lustre](https://review.whamcloud.com/#/q/Lokesh+Jaliminche) <br/>
+* [Ext4](https://patchwork.ozlabs.org/patch/559179/) <br/>
+
+### Publications
+* [Design and implementation of test harness for device drivers in SOC on mobile platforms](https://ieeexplore-ieee-org.oca.ucsc.edu/document/7050470)
+
+
 
 ### Contact
-Email: ljalimin@ucsc.edu <br/>
-LinkedIn:[https://www.linkedin.com/in/lokesh-jaliminche-31996014/](https://www.linkedin.com/in/lokesh-jaliminche-31996014/)
+* Email: ljalimin@ucsc.edu <br/>
+* LinkedIn:[https://www.linkedin.com/in/lokesh-jaliminche-31996014/](https://www.linkedin.com/in/lokesh-jaliminche-31996014/)
 
