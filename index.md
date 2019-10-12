@@ -1,7 +1,17 @@
+![My helpful screenshot](/assets/profile_pic.jpg)
+
 ### Research Interests.
-Distributed Systems, Storage Systems, Databases, Operating Systems, Machine Learning
+Distributed Systems<br/>
+Storage Systems<br/>
+Databases<br/>
+Operating Systems<br/>
+Machine Learning<br/>
+
+### Education
+M.Tech. in Computer Science (Vellore Institute of Technology) <br/>
+B.E. in Computer Science (Bharatratna Indira Gandhi College of Engineering)
 
 ### Contact
-Email: ljalimin@ucsc.edu
+Email: ljalimin@ucsc.edu <br/>
 LinkedIn:[https://www.linkedin.com/in/lokesh-jaliminche-31996014/](https://www.linkedin.com/in/lokesh-jaliminche-31996014/)
 
