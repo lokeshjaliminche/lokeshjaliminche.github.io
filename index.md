@@ -1,4 +1,4 @@
-![My helpful screenshot](/assets/profile_pic.jpg)
+![My helpful screenshot](/assets/profile_pic_small.jpg)
 
 ### Research Interests.
 * Distributed Systems<br/>
