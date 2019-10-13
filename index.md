@@ -26,11 +26,12 @@
 * [Ext4](https://patchwork.ozlabs.org/patch/559179/) <br/>
 
 ### Publications
-* [Design and implementation of test harness for device drivers in SOC on mobile platforms](https://ieeexplore-ieee-org.oca.ucsc.edu/document/7050470)
+* [Design and implementation of test harness for device drivers in SOC on mobile platforms](https://ieeexplore-ieee-org.oca.ucsc.edu/document/7050470)[PDF](/assets/7050470.pdf)
 
 
 
 ### Contact
 * Email: ljalimin@ucsc.edu <br/>
+* [get the PDF](/assets/mydoc.pdf)
 * LinkedIn:[https://www.linkedin.com/in/lokesh-jaliminche-31996014/](https://www.linkedin.com/in/lokesh-jaliminche-31996014/)
 
