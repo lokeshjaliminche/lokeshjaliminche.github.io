@@ -32,3 +32,6 @@
 * Email: ljalimin@ucsc.edu <br/>
 * LinkedIn:[https://www.linkedin.com/in/lokesh-jaliminche-31996014/](https://www.linkedin.com/in/lokesh-jaliminche-31996014/)
 
+### SOP
+* For new fellow students feel free to refer my SOP for applications. [SOP](/assets/Copy_of_SOP_UCSC.pdf)
+
